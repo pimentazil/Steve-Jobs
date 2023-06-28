@@ -344,3 +344,24 @@ footer {
 .image-wrapper:hover .image-title {
   opacity: 1;
 }
+
+.padding {
+  padding: 500px;
+  background-color: black;
+  
+}
+
+.albumDeFotos {
+  display: block;
+  position: absolute;
+  top: 2360px;
+  left: 310px;
+  
+  border-radius: 35px; /* Adicione um arredondamento nas bordas */
+  
+}
+
+.albumDeFotos img {
+  border-radius: 35px;
+  margin: 40px;
+}
